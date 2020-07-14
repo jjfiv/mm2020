@@ -9,3 +9,8 @@ print_in_block("\twho's there?")
 print_in_block("interrupted cow")
 print_in_block("\tinterrupted--")
 print_in_block("MOO!")
+
+# time to figure out branches
+print_in_block("knock knock!")
+print_in_block("\twho's there?")
+print_in_block("trees")
