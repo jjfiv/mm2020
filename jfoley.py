@@ -9,3 +9,9 @@ print_in_block("who's there?")
 print_in_block("interrupted cow")
 print_in_block("interrupted--")
 print_in_block("MOO!")
+
+def inc(x):
+  return x + 1
+
+def test_answer():
+    assert inc(3) == 4
