@@ -12,6 +12,7 @@ print_in_block("> orange who?")
 print_in_block("orange you glad...")
 
 print_in_block("knock knock!")
+<< << << < HEAD
 print_in_block("> who's there?")
 print_in_block("ether")
 print_in_block("> ether who?")
@@ -28,3 +29,9 @@ print_in_block("> who's there?")
 print_in_block("cargo")
 print_in_block("> cargo who?")
 print_in_block("cargo beep beep and run over all the ether bunnies!")
+== == == =
+print_in_block("who's there?")
+print_in_block("owls go")
+print_in_block("owls go who?")
+print_in_block("exactly!")
+>>>>>> > e4c94fadf245d595c4d4b7c521d1bddd28979352
