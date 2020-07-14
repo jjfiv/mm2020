@@ -12,6 +12,12 @@ print_in_block("> orange who?")
 print_in_block("orange you glad...")
 
 print_in_block("knock knock!")
+print_in_block("\twho's there?")
+print_in_block("hatch")
+print_in_block("\thatch who?")
+print_in_block("bless you!")
+
+print_in_block("knock knock!")
 print_in_block("> who's there?")
 print_in_block("ether")
 print_in_block("> ether who?")
